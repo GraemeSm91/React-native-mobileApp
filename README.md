@@ -20,16 +20,15 @@ Screenshots
 
 Here are some UI screenshots of the application:
 
-![Screenshot 1](UI-Screenshots/Screenshot_20241220-192139.jpg)
-![Screenshot 2](UI-Screenshots/Screenshot_20241220-192155.jpg)
-![Screenshot 3](UI-Screenshots/Screenshot_20241220-193344.jpg)
-![Screenshot 4](UI-Screenshots/Screenshot_20241220-193351.jpg)
-![Screenshot 5](UI-Screenshots/Screenshot_20241220-193433.jpg)
-![Screenshot 6](UI-Screenshots/Screenshot_20241220-193549.jpg)
-![Screenshot 7](UI-Screenshots/Screenshot_20241220-193604.jpg)
-![Screenshot 8](UI-Screenshots/Screenshot_20241220-193637.jpg)
-![Screenshot 9](UI-Screenshots/Screenshot_20241220-200233.jpg)
-
+<img src="UI-Screenshots/Screenshot_20241220-192139.jpg" width="300">  
+<img src="UI-Screenshots/Screenshot_20241220-192155.jpg" width="300">  
+<img src="UI-Screenshots/Screenshot_20241220-193344.jpg" width="300">  
+<img src="UI-Screenshots/Screenshot_20241220-193351.jpg" width="300">  
+<img src="UI-Screenshots/Screenshot_20241220-193433.jpg" width="300">  
+<img src="UI-Screenshots/Screenshot_20241220-193549.jpg" width="300">  
+<img src="UI-Screenshots/Screenshot_20241220-193604.jpg" width="300">  
+<img src="UI-Screenshots/Screenshot_20241220-193637.jpg" width="300">  
+<img src="UI-Screenshots/Screenshot_20241220-200233.jpg" width="300"> 
 
 
 
